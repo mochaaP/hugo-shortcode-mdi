@@ -35,4 +35,4 @@ Just put `{{% mdi [icon] %}}` in your document and it will magically works!
 
 MIT. See `LICENSE` for more details.
 
-Material Design Icons belongs to [@Templarian](https://github.com/templarian/). I DO NOT OWN THESE ICONS.
+Material Design Icons belongs to [@Templarian](https://github.com/templarian/) and Google, licensed under SIL.

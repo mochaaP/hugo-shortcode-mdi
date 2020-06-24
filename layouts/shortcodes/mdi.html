@@ -1,0 +1,6 @@
+<span style="display: inline-block;" class="inline-svg mdi">
+    {{- $fname:=print "/themes/mdi/icons/" ( .Get 0 ) ".svg" -}}
+    {{- $path:="<path" -}}
+    {{- $fill:="<path fill=\"currentColor\"" -}}
+    {{ replace (slicestr (readFile $fname) 136) $path $fill | safeHTML }}
+</span>

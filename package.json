@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@mdi/svg": "^4.2.95"
+  },
+  "name": "hugo-shortcode-mdi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mochaaP/hugo-shortcode-mdi.git",
+  "author": "mochaaP <self@mochaa.ws>",
+  "license": "MIT",
+  "description": "Bring Material Design Icons to your Hugo site."
+}

@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@mdi/svg": "^4.2.95"
+    "@mdi/svg": "latest"
   },
   "name": "hugo-shortcode-mdi",
   "version": "1.0.0",
